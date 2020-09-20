@@ -1,2 +1,3 @@
 # NT_AND_GATE_UPDATE
 @NT_AND_GATE_UPDATE
+# NT_AND_GATE_UPDATE is placed by NT, but DATA_FLOW is old by rule!
